@@ -1,0 +1,20 @@
+1549803637a:1:{s:9:"about.htm";a:11:{s:8:"fileName";s:9:"about.htm";s:7:"content";s:328:"title = "About"
+url = "/about"
+layout = "default"
+description = "This is the about page"
+is_hidden = 0
+
+[resourcesLinks]
+link1 = "http://test.com"
+link2 = "http://google.com"
+link3 = "http://youtube.com"
+==
+<h1>About us</h1>
+<p>This is a short introduction of who we are</p>
+<hr>
+
+{% component 'resourcesLinks' %}";s:5:"mtime";i:1548944675;s:6:"markup";s:110:"<h1>About us</h1>
+<p>This is a short introduction of who we are</p>
+<hr>
+
+{% component 'resourcesLinks' %}";s:4:"code";N;s:5:"title";s:5:"About";s:3:"url";s:6:"/about";s:6:"layout";s:7:"default";s:11:"description";s:22:"This is the about page";s:9:"is_hidden";s:1:"0";s:14:"resourcesLinks";a:3:{s:5:"link1";s:15:"http://test.com";s:5:"link2";s:17:"http://google.com";s:5:"link3";s:18:"http://youtube.com";}}}

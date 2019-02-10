@@ -1,0 +1,38 @@
+<!-- Custom styles for this template -->
+<link href="https://getbootstrap.com/docs/4.2/examples/navbars/navbar.css" rel="stylesheet">
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample08" aria-controls="navbarsExample08" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse justify-content-md-center" id="navbarsExample08">
+        <ul class="navbar-nav">
+            <li class="nav-item {% if this.page.id=='home' %}active{% endif %}">
+                <a class="nav-link" href="{{'home'|page}}">{{this.theme.site_name}}</a>
+            </li>
+
+            <li class="nav-item {% if this.page.id=='blog' %}active{% endif %}">
+                <a class="nav-link" href="{{'blog'|page}}">Blog</a>
+            </li>
+
+            <li class="nav-item {% if this.page.id=='about' %}active{% endif %}">
+                <a class="nav-link" href="{{'about'|page}}">About</a>
+            </li>
+
+            <li class="nav-item {% if this.page.id=='contact' %}active{% endif %}">
+                <a class="nav-link" href="{{'contact'|page}}">Contact</a>
+            </li>
+
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle"  href="#" id="d" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">What's More</a>
+                <div class="dropdown-menu" aria-labelledby="d">
+                    <a class="dropdown-item" href="#">Action</a>
+                    <a class="dropdown-item" href="#">Another action</a>
+                    <a class="dropdown-item" href="#">Something else here</a>
+                </div>
+            </li>
+        </ul>
+    </div>
+</nav>
+

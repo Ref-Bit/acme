@@ -1,0 +1,16 @@
+name: Acme
+description: 'Simple Bootswatch theme '
+author: 'Refaat Bitar'
+homepage: ''
+code: ''
+form:
+  fields:
+    site_name:
+      label: Site name
+      comment: The global website name
+      default: Acme
+
+    site_description:
+      label: Site description
+      comment: The global website description
+      default: In est dolor, blandit posuere libero aliquam, lacinia feugiat nisl. Proin bibendum lectus quam, ac tristique lorem commodo in. Vivamus in felis eget quam sollicitudin consectetur. Vivamus at purus eu neque dignissim dictum nec vitae enim. Suspendisse potenti. Pellentesque lobortis, nisi id interdum consequat, leo magna eleifend nulla, at dictum justo ipsum ac ipsum. Morbi sodales quam ut molestie convallis.

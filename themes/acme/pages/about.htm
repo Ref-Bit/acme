@@ -1,0 +1,16 @@
+title = "About"
+url = "/about"
+layout = "default"
+description = "This is the about page"
+is_hidden = 0
+
+[resourcesLinks]
+link1 = "http://test.com"
+link2 = "http://google.com"
+link3 = "http://youtube.com"
+==
+<h1>About us</h1>
+<p>This is a short introduction of who we are</p>
+<hr>
+
+{% component 'resourcesLinks' %}
