@@ -1,7 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3cd6458e-3c1c-416c-b40c-a18f3a486b97" name="Default Changelist" comment="" />
+    <list default="true" id="3cd6458e-3c1c-416c-b40c-a18f3a486b97" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/07/06/blog.htm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/26/ee/default.htm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/72/be/post.htm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/77/84/contact.htm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/88/46/footer.htm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/93/44/header.htm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/cd/7b/fallback.htm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/f0/f7/about.htm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/fe/28/home.htm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/0e/0ead03233e69e38832c5c6c7c3897ecf40d9c95e8cee2c3fbbf1e628e34e06ed.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/41/41e97fcb63d2c82f2d45d0684b00ee0c4cc8b1f5f649455468d751b017317ab0.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/45/45c40ec6e0d70fe90f989e4efa62e515d10108da21737a5809cf61f1f1cbd6fe.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/73/7312f714e53e3fb6ea31cccd185f33f9ae68d2447578255305bf93df7e7f0a73.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/92/92694909f15012f7000020fe4a98c1ad660f2ca7aff7f8c719dd73c91cac456a.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/9c/9c4b072b00a2b77727f99b700854ab48f1fbf3ccaf1858ce41a7dcedd6683891.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/a2/a2c5c9e671c1e16838c27929403a8a8afe4d21d8abf5b233d487558d511f5430.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/c7/c79058379e34392adf7bc17e6dfc3e7ce908b90ca591b6d0c2885be56e053d78.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/df/dfb9995d185bad19cb1ba3e7204f54e326add6f8b0019aefbd68e998865a446c.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/e4/e4e2c6fb3f7a3a951923a8755b5f18b524801aefacfae7a8264b4da319297cc6.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/02/ed/02edb1d4ca5943ec35bb462771bd57e732997ca0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/06/96/0696b07f675abb88cd4214f49cc8d48dedf832f2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/08/df/08dfdfd922681bba7ab5215d56b7da8dd8d64c53" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/0b/5a/0b5a86198e1a5f2153f58a0f201984e6869bb454" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/0d/4b/0d4b6ab7cbf5f35d3e2e69c9df078f35c50b5a09" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/11/de/11de31e1eabb2682cf62ee9c9ccb0630f1019006" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/11/de/11de31e1eabb2682cf62ee9c9ccb0630f1019006" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/22/43/2243f500ae1632e1e609a9d4d08e7bad65800071" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/22/43/2243f500ae1632e1e609a9d4d08e7bad65800071" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/26/86/2686259d0ff03963c846f49146a464d91f34b79b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/26/87/268708b3dec453876a36f5168757b1f067658a99" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/2c/54/2c54cfa22e81408d42bdc981e22d794303075e30" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/38/88/3888c0fe7b9f0fdd95ead71e2fcf2ed44a6a15cf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/39/2d/392d6f3113d31baf8dc0b0a2335deb83904e6cd5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/47/19/471986a73bc7e5ef4dd17af1f5993ecc6fa192f2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/60/a3/60a353473ccab6abd8a2ec9697bfcb6338508dd2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/72/4d/724d64623b82cdd367a46a1a3611b8fce75faedf" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/72/4d/724d64623b82cdd367a46a1a3611b8fce75faedf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/76/4c/764c416256daa838f704d82c43ec665f12bc7f15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/77/61/77616e1c5e0d202cb4cf522bddafaebf56f27660" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/77/61/77616e1c5e0d202cb4cf522bddafaebf56f27660" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/81/08/81088ee972be9acbd8e1be71ecc4b3b3a0d95aaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/83/b4/83b4c9cedb265a8417b1b87a333492643f5eb1c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/85/8e/858e91c12a8544e8d033f1ac34cd16959f512284" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/8d/3d/8d3d11b1922de615774e10838555eb5a261cc333" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/8d/95/8d95fe9ddf0ed76756982b6268c1da79ffd91246" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/97/37/9737833e426f53b3dcb4d98fdcb68c76762765de" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/97/37/9737833e426f53b3dcb4d98fdcb68c76762765de" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/a0/c9/a0c910eb995ad1e9281e5bb05187281e039e242f" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/a0/c9/a0c910eb995ad1e9281e5bb05187281e039e242f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/b1/b6/b1b6b61b6cd58fcbec08f9d00687d524901e8a6d" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/b1/b6/b1b6b61b6cd58fcbec08f9d00687d524901e8a6d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/b9/f5/b9f5f249f81009ecd0813e9a1ea6d37813f3f4e9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/c0/ed/c0ed2a55ac575128efbe7fa131ad78b18be8cd67" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/c4/fc/c4fccf608cd0e2186a57a0919d658db05ff74614" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/d0/1e/d01e8e95ac402ba16ad83ad09f6851991c3b6212" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/d2/bf/d2bfa1437aba00dadecca2b56617050d8f711997" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/d9/06/d906a5597504713894cb6a6a3ffa5ecc434fe9f4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/ef/eb/efeb5efc7f24b956adfb6f0403016435a844f6a0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/ef/f6/eff678004f5d9e1f8eda4497b128f310118da7c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/fd/d9/fdd95f73e8a7b38da98ce16df1b7dca5a86fc03a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/classes.php" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/classes.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +89,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/plugins/mechax/resources/components/Links.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
@@ -54,11 +110,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/acme/partials/footer.htm">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="197" lean-forward="true" selection-start-line="1" selection-end-line="3" selection-end-column="197" />
+              <caret line="3" column="57" lean-forward="true" selection-start-line="3" selection-start-column="57" selection-end-line="3" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -66,7 +122,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/acme/partials/header.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
+            <state relative-caret-position="646">
               <caret line="38" selection-start-line="38" selection-end-line="38" />
             </state>
           </provider>
@@ -80,6 +136,9 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -107,66 +166,14 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Acme" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Acme" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Acme" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Acme" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Acme" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Acme" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Acme" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Acme" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="acme" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Acme" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Acme" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="acme" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Acme" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Acme" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="acme" type="462c0819:PsiDirectoryNode" />
-              <item name="partials" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Acme" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Acme" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="responsiv-clean" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Acme" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Acme" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="responsiv-clean" type="462c0819:PsiDirectoryNode" />
-              <item name="partials" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -210,20 +217,21 @@
       <workItem from="1548936013689" duration="9473000" />
       <workItem from="1549196730658" duration="18000" />
       <workItem from="1549196995076" duration="319000" />
+      <workItem from="1549803499593" duration="846000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9810000" />
+    <option name="totallyTimeSpent" value="10656000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.20347957" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2065053" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32843137" />
       <window_info anchor="bottom" id="Database Changes" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" />
@@ -322,23 +330,6 @@
     <entry file="file://$PROJECT_DIR$/themes/acme/pages/blog/rss.htm">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/mechax/resources/Plugin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="29" column="67" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/mechax/resources/components/Links.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-          <folding>
-            <element signature="e#135#165#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/acme/pages/home.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -363,6 +354,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/mechax/resources/Plugin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="29" column="67" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/plugins/mechax/resources/components/links/default.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -372,7 +370,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/acme/partials/header.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
+        <state relative-caret-position="646">
           <caret line="38" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
@@ -380,7 +378,17 @@
     <entry file="file://$PROJECT_DIR$/themes/acme/partials/footer.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="197" lean-forward="true" selection-start-line="1" selection-end-line="3" selection-end-column="197" />
+          <caret line="3" column="57" lean-forward="true" selection-start-line="3" selection-start-column="57" selection-end-line="3" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/mechax/resources/components/Links.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="e#135#165#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

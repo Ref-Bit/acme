@@ -50,4 +50,13 @@
   'RainLab\\Translate\\Behaviors\\TranslatableModel' => 'plugins\\rainlab\\translate\\behaviors\\TranslatableModel.php',
   'mechax\\resources\\Plugin' => 'plugins\\mechax\\resources\\Plugin.php',
   'Mechax\\Resources\\Components\\Links' => 'plugins\\mechax\\resources\\components\\Links.php',
+  'rainlab\\pages\\Controllers\\index' => 'plugins\\rainlab\\pages\\controllers\\index.php',
+  'RainLab\\Pages\\Widgets\\PageList' => 'plugins\\rainlab\\pages\\widgets\\PageList.php',
+  'RainLab\\Pages\\Widgets\\MenuList' => 'plugins\\rainlab\\pages\\widgets\\MenuList.php',
+  'RainLab\\Pages\\Widgets\\SnippetList' => 'plugins\\rainlab\\pages\\widgets\\SnippetList.php',
+  'RainLab\\Pages\\Classes\\Menu' => 'plugins\\rainlab\\pages\\classes\\Menu.php',
+  'RainLab\\Pages\\Classes\\Content' => 'plugins\\rainlab\\pages\\classes\\Content.php',
+  'RainLab\\Pages\\Classes\\MenuItem' => 'plugins\\rainlab\\pages\\classes\\MenuItem.php',
+  'RainLab\\Pages\\Classes\\MenuItemReference' => 'plugins\\rainlab\\pages\\classes\\MenuItemReference.php',
+  'backend\\Controllers\\preferences' => 'modules\\backend\\controllers\\preferences.php',
 );
